@@ -1,7 +1,7 @@
 # CoolMath
 q# MathSpotGames
 
-***Congratulations you have found the secret game page********IMPORTANT NOTE DO NOT CLICK ON THE PICTURE CLICK ON THE LINK***
+***Congratulations you have found the secret game page***
 
 [2048](https://abc6782.github.io/games/2048/index.html)       
 
