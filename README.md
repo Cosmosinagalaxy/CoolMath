@@ -19,7 +19,7 @@ q# MathSpotGames
 [colorun](https://abc6782.github.io/games/colorun/index.html) 
 
 
-[Craftmine](https://abc6782.github.io/games/craftmine/index.html)_***secret game site***
+[Craftmine](https://abc6782.github.io/games/craftmine/index.html)_
 
 
 
